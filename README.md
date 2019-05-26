@@ -4,7 +4,7 @@ Code that belongs to an arduino based rgb-led-poi.
 
 ## Getting Started
 
-Head over to [Instructables.com](https://rometools.github.io/rome/) to read the in depth tutorial on how to build the poi.
+Head over to [Instructables.com](https://www.instructables.com/id/Building-a-Remote-Controlled-RGB-LED-Glow-Poi) to read the in depth tutorial on how to build the poi.
 Otherwise this is straight forward to compile and upload using Arduino IDE
 
 ### Prerequisites
